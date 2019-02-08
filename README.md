@@ -1,0 +1,2 @@
+# MagicoPedia
+Magical EncycloPedia
