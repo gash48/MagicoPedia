@@ -1,21 +1,38 @@
 <template>
-  <div>
-   Magico
+  <div class="container-fluid">
+    <app-header></app-header>
+    <div id="mainBody">
+      <router-view></router-view>
+    </div>
+    <app-footer></app-footer>
   </div>
 </template>
 
 <script>
+import Header from "./components/Header/Header.vue";
+import Footer from "./components/Footer/Footer.vue";
 
 export default {
   data() {
-    return {
-    };
+    return {};
   },
   created() {},
   methods: {},
-  components: {}
+  components: {
+    appHeader: Header,
+    appFooter: Footer
+  }
 };
 </script>
 
-<style>
+<style scoped>
+#mainBody {
+  border: 1px solid;
+  margin-top: 120px;
+  height: 80%;
+}
 </style>
+
+
+
+
