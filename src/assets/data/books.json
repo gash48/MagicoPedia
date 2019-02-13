@@ -1,0 +1,58 @@
+[
+  {
+    "bookId" : 24,
+    "bookTitle" : "Fantastic Beasts and where To Find Them",
+    "bookAuthor" : "Newt Scamander",
+    "published" : 1918,
+    "bookCover" :"fbeasts.jpg"
+  },
+  {
+    "bookId" : 7,
+    "bookTitle" : "Harry Potter and The Sorcerer Stone",
+    "bookAuthor" : "J K Rowling",
+    "published" : 1994,
+    "bookCover" :"hp1.jpg"
+  },
+  {
+    "bookId" : 17,
+    "bookTitle" : "Harry Potter and The Chambers of Secrets",
+    "bookAuthor" : "J K Rowling",
+    "published" : 1995,
+    "bookCover" :"hp2.jpg"
+  },
+  {
+    "bookId" : 27,
+    "bookTitle" : "Harry Potter and The Prizoner of Azkaban",
+    "bookAuthor" : "J K Rowling",
+    "published" : 1996,
+    "bookCover" :"hp3.jpg"
+  },
+  {
+    "bookId" : 37,
+    "bookTitle" : "Harry Potter and The Goblet of Fire",
+    "bookAuthor" : "J K Rowling",
+    "published" : 1997,
+    "bookCover" :"hp4.jpg"
+  },
+  {
+    "bookId" : 47,
+    "bookTitle" : "Harry Potter and The Order of the Phoenix",
+    "bookAuthor" : "J K Rowling",
+    "published" : 1998,
+    "bookCover" :"hp5.jpg"
+  },
+  {
+    "bookId" : 57,
+    "bookTitle" : "Harry Potter and The Half Blood Prince",
+    "bookAuthor" : "J K Rowling",
+    "published" : 1999,
+    "bookCover" :"hp6.jpg"
+  },
+  {
+    "bookId" : 67,
+    "bookTitle" : "Harry Potter and The Deathly Hallows",
+    "bookAuthor" : "J K Rowling",
+    "published" : 2000,
+    "bookCover" :"hp7.jpg"
+  }
+]

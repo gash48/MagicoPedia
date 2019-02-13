@@ -1,0 +1,59 @@
+[
+  {
+    "id" : 1, 
+    "name" : "Acromantula",
+    "rating" : 5,
+    "commonName" : "Talking Spider",
+    "area" : ["Indonesia"],
+    "description" : "The Acromantula is a monstrous eight-eyed spider capable of human speech. It originated in Borneo, where it inhabits dense jungle. Its distinctive features include the thick black hair that covers its body; its legspan, which may reach up to fifteen feet; its pincers, which produce a distinctive clicking sound when the Acromantula is excited or angry; and a poisonous secretion. The Acromantula is carnivorous and prefers large prey. It spins dome- shaped webs upon the ground. The female is bigger than the male and may lay up to one hundred eggs at a time. Soft and white, these are as large as beach balls. The young hatch in six to eight weeks. Acromantula eggs are defined as Class A Non- Tradeable Goods by the Department for the Regulation and Control of Magical Creatures, meaning that severe penalties are attached to their importation or sale. This beast is believed to be wizard-bred, possibly intended to guard wizard dwellings or treasure, as is often the case with magically created monsters. Despite its near-human intelligence,the Acromantula is untrainable and highly dangerous to wizard and Muggle alike. Rumours that a colony of Acromantula has been established in Scotland are unconfirmed."  
+  },
+  {
+    "id" : 2, 
+    "name" : "Ashwinder",
+    "rating" : 3,
+    "commonName" : "",
+    "area" : [],
+    "description" : "The Ashwinder is created when a magical fire2 is allowed to burn unchecked for too long. A thin, pale-grey serpent with glowing red eyes, it will rise from the embers of an unsupervised fire and slither away into the shadows of the dwelling in which it finds itself, leaving an ashy trail behind it. The Ashwinder lives for only an hour and during that time seeks a dark and secluded spot in which to lay its eggs, after which it will collapse into dust. Ashwinder eggs are brilliant red and give off intense heat. They will ignite the dwelling within minutes if not found and frozen with a suitable charm. Any wizard realising that one or more Ashwinders are loose in the house must trace them immediately and locate the nest of eggs. Once frozen, these eggs are of great value for use in Love Potions and may be eaten whole as a cure for ague. Ashwinders are found worldwide."  
+  },
+  {
+    "id" : 3, 
+    "name" : "Augurey",
+    "rating" : 2,
+    "commonName" : "IrishPhoenix",
+    "area" : ["Britain", "Ireland"],
+    "description" : "The Augurey is a native of Britain and Ireland, though sometimes found elsewhere in northern Europe. A thin and mournful- looking bird, somewhat like a small and underfed vulture in appearance, the Augurey is greenish black. It is intensely shy, nests in bramble and thorn, eats large insects and fairies, flies only in heavy rain, and otherwise remains hidden in its tear-shaped nest. The Augurey has a distinctive low and throbbing cry, which was once believed to foretell death. Wizards avoided Augurey nests for fear of hearing that heart-rending sound, and more than one wizard is believed to have suffered a heart attack on passing a thicket and hearing an unseen Augurey wail.3 Patient research eventually revealed, however, that the Augurey merely sings at the approach of rain.4 The Augurey has since enjoyed a vogue as a home weather forecaster, though many find its almost continual moaning during the winter months difficult to bear. Augurey feathers are useless as quills because they repel ink."
+  },
+  {
+    "id" : 4, 
+    "name" : "Basilisk",
+    "rating" : 5,
+    "commonName" : "King Of Serpents",
+    "area" : [],
+    "description" : "The first recorded Basilisk was bred by Herpo the Foul, a Greek Dark wizard and Parselmouth, who discovered after much experimentation that a chicken egg hatched beneath a toad would produce a gigantic serpent possessed of extraordinarily dangerous powers. The Basilisk is a brilliant green serpent that may reach up to fifty feet in length. The male has a scarlet plume upon its head. It has exceptionally venomous fangs but its most dangerous means of attack is the gaze of its large yellow eyes. Anyone looking directly into these will suffer instant death. If the food source is sufficient (the Basilisk will eat all mammals and birds and most reptiles), the serpent may attain a very great age. Herpo the Foul’s Basilisk is believed to have lived for close on nine hundred years.The creation of Basilisks has been illegal since medieval times, although the practice is easily concealed by simply removing the chicken egg from beneath the toad when the Department for the Regulation and Control of Magical Creatures comes to call. However, since Basilisks are uncontrollable except by Parselmouths, they are as dangerous to most Dark wizards as to anybody else, and there have been no recorded sightings of Basilisks in Britain for at least four hundred years."
+  },
+  {
+    "id" : 5, 
+    "name" : "Billywig",
+    "rating" : 3,
+    "area":["Australia"],
+    "commonName" : "",
+    "description" : "The Billywig is an insect native to Australia. It is around half an inch long and a vivid sapphire blue, although its speed is such that it is rarely noticed by Muggles and often not by wizards until they have been stung. The Billywig’s wings are attached to the top of its head and are rotated very fast so that it spins as it flies. At the bottom of the body is a long thin sting. Those who have been stung by a Billywig suffer giddiness followed by levitation. Generations of young Australian witches and wizards have attempted to catch Billywigs and provoke them into stinging in order to enjoy these side effects, though too many stings may cause the victim to hover uncontrollably for days on end, and where there is a severe allergic reaction, permanent floating may ensue. Dried Billywig stings are used in several potions and are believed to be a component in the popular sweet Fizzing Whizbees."
+  },
+  {
+    "id" : 6, 
+    "name" : "Bowtruckle",
+    "rating" : 2,
+    "area":["Britain", "Germany", "Scandinavia"],
+    "commonName" : "",
+    "description" : "The Bowtruckle is a tree-guardian creature found mainly in the west of England, southern Germany, and certain Scandinavian forests. It is immensely difficult to spot, being small (maximum eight inches in height) and apparently made of bark and twigs with two small brown eyes. The Bowtruckle, which eats insects, is a peaceable and intensely shy creature but if the tree in which it lives is threatened, it has been known to leap down upon the woodcutter or tree-surgeon attempting to harm its home and gouge at their eyes with its long, sharp fingers. An offering of woodlice will placate the Bowtruckle long enough to let a witch or wizard remove wand-wood from its tree."
+  },
+  {
+    "id" : 7, 
+    "name" : "Bundimun",
+    "rating" : 3,
+    "area":[],
+    "commonName" : "",
+    "description" : "Bundimuns are found worldwide. Skilled at creeping under floorboards and behind skirting boards, they infest houses. The presence of a Bundimun is usually announced by a foul stench of decay. The Bundimun oozes a secretion which rots away the very foundations of the dwelling in which it is found. The Bundimun at rest resembles a patch of greenish fungus with eyes, though when alarmed it will scuttle away on its numerous spindly legs. It feeds on dirt. Scouring charms will rid a house of an infestation of Bundimuns, though if they have been allowed to grow too large, the Department for the Regulation and Control of Magical Creatures (Pest Sub-Division) should be contacted before the house collapses. Diluted Bundimun secretion is used in certain magical cleaning fluids."
+ }
+]
+
