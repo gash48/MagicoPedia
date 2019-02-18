@@ -9,8 +9,8 @@
 </template>
 
 <script>
-import Header from "./components/Header/Header.vue";
-import Footer from "./components/Footer/Footer.vue";
+import Header from './components/Header/Header.vue';
+import Footer from './components/Footer/Footer.vue';
 
 export default {
   data() {
@@ -27,7 +27,7 @@ export default {
 
 <style scoped>
 #mainBody {
-  border: 1px solid;
+  padding: 20px 5px;
   margin-top: 120px;
   height: 80%;
 }

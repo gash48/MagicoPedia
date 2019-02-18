@@ -38,6 +38,7 @@ export default {
 .navBarWrapper {
   position: fixed;
   background: #85c3e2;
+  z-index:5;
   width: 100%;
   top: 66px;
 }

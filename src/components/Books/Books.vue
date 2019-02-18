@@ -1,13 +1,28 @@
 <template>
   <div class="container-fluid">
-    Welcome To the Books
+    <app-entity-card v-if="getBooks.length > 0" :entityList="getBooks"></app-entity-card>
   </div>
 </template>
 
 <script>
-export default {};
+import EnitityCard from '../Shared/EntityCard.vue';
+import { mapGetters, mapActions } from 'vuex';
+
+export default {
+  computed: {
+    ...mapGetters(['getBooks'])
+  },
+  methods: {
+    ...mapActions(['fetchBooks'])
+  },
+  components: {
+    appEntityCard: EnitityCard
+  },
+  created() {
+    this.fetchBooks();
+  }
+};
 </script>
 
 <style scoped>
-
 </style>

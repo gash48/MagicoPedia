@@ -51,7 +51,7 @@ module.exports = {
       dataAssets: path.resolve(__dirname, './src/assets/data'),
       imageAssets: path.resolve(__dirname, './src/assets/images'),
       components: path.resolve(__dirname, './src/components'),
-      sharedComponent: path.resolve(__dirname, './src/components/shared'),
+      sharedComponent: path.resolve(__dirname, './src/components/Shared'),
       resources: path.resolve(__dirname, './src/resources'),
       store: path.resolve(__dirname, './src/store'),
       utility: path.resolve(__dirname, './src/utility')

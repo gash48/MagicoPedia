@@ -10,7 +10,7 @@ export default {};
 
 <style scoped>
 .footerWrapper {
-  position: absolute;
+  position: fixed;
   z-index: -50;
   bottom: 0px;
   width: 100%;
