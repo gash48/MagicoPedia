@@ -1,17 +1,17 @@
 <template>
   <div>
-    <div class="card displayCards" v-for="entity in entityList" :key="entity.bookId">
+    <div class="card displayCards" v-for="entity in entityList" :key="entity[keyMap.id]" @click="redirectTo(entity)">
       <div class="card-body imageCover">
-        <img :src="'../src/assets/images/book-covers/'+entity.bookCover" alt="No Preview Available" />
+        <img :src="'../src/assets/images'+keyMap.basePath+entity[keyMap.coverImage]" alt="No Preview Available" />
       </div>
-      <div class="card-footer">{{entity.bookTitle}}</div>
+      <div class="card-footer">{{entity[keyMap.title]}}</div>
     </div>
   </div>
 </template>
 
 <script>
 export default {
-  props: ['entityList']
+  props: ["entityList", "keyMap", "redirectTo"]
 };
 </script>
 

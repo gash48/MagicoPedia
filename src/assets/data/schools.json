@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "name": "Hogwarts School Of Witchcraft & Wizardry",
+    "area": ["Britain"],
+    "coverImage":"hogwarts.jpg",
+    "description": ""
+  },
+  {
+    "id": 2,
+    "name": "Beauxbatons Academy of Magic",
+    "area": ["France"],
+    "coverImage":"beauxbatons.jpg",
+    "description": ""
+  },
+  {
+    "id": 3,
+    "name": "Durmstang School of Magic",
+    "area": ["Bulgaria"],
+    "coverImage":"durmstrang.png",
+    "description": ""
+  },
+  {
+    "id": 4,
+    "name": "Llvermony",
+    "area": ["America"],
+    "coverImage":"llvermony.png",
+    "description": ""
+  } 
+]
